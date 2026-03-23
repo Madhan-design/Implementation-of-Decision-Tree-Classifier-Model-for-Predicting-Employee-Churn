@@ -20,12 +20,6 @@ STEP 5 - Stop
 
 ## Program:
 ```
-/*
-Program to implement the Decision Tree Classifier Model for Predicting Employee Churn.
-Developed by: RajalakshmiR
-RegisterNumber:  212223110037
-*/
-
 import pandas as pd
 data=pd.read_csv("C:/Users/admin/Downloads/Employee.csv")
 data.head()
